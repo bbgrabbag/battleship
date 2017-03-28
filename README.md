@@ -1,8 +1,8 @@
 NodeJS Battleship
 
-DESCRIPTION:
+DESCRIPTION: Play against the computer in a race to destroy the evil Imperial Navy before it destroys yours!
 
-HOW TO PLAY:
+HOW TO PLAY: 
 
-PURPOSE: With this project I really wanted to master the art of building constructors and using node modules. If a fun and entertaining game happened to come out of it, then that was just a bonus. 
+PURPOSE: With this project I really wanted to master the art of building constructors and using node modules. Bonus points if a fun and entertaining game happened to come out of it. 
 
