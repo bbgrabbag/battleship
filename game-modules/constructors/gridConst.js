@@ -8,9 +8,9 @@ var createGrid = function () {
             row.push({ 
     isEnemy: false,
     isHit: false,
-    isMiss: false,
+    enemyDisplay: "~",
     display: "~",
-    coords: {y : i + 1, x : j + 1}
+    coords: {y : (i + 1), x : (j + 1)}
 });
         };
         grid.push(row);
